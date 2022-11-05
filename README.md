@@ -26,8 +26,7 @@ newbie Front End Mentor HTML/CSS challenge involving basic styling and positioni
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://qr-code-challenge-jdhill.netlify.app/)
 
 ## My process
 
@@ -47,9 +46,9 @@ revisit flexbox and mobile first RWD, the Device Mode in Chrome dev tools is so 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Jeffrey Hill](https://webdevhill.com/)
+- Frontend Mentor - [Jeffrey Hill](https://www.frontendmentor.io/profile/webdevhill)
+
 
 
 
