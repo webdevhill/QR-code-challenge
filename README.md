@@ -14,10 +14,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
   - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 
 ## Overview
-newbie Front End Mentor HTML/CSS challenge involving basic styling and positioning
+newbie Front End Mentor HTML/CSS challenge involving basic styling, positioning, responsiveness
 
 ### Screenshot
 
@@ -26,8 +27,7 @@ newbie Front End Mentor HTML/CSS challenge involving basic styling and positioni
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://qr-code-challenge-jdhill.netlify.app/)
 
 ## My process
 
@@ -36,21 +36,22 @@ newbie Front End Mentor HTML/CSS challenge involving basic styling and positioni
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- media-queries
 
 ### What I learned
 
-I had more difficulty positioning thess items with flexbox and media queries than I expected. Viewing it with Chrome dev tools and manually adjusting the width to see break points is entirely different than using the dev tool's "Device Mode".The top margin and proportions are what was giving me problems. 
+ Positioning and proportioning elements in CSS from a .jpeg can be a bit tricky. A fellow member on Front-end Mentor pointed out that I was using width instead of max-width. That was killing my responsiveness in flexbox. Ty @vcarames. The responsiveness seems decent Hopefully my proportions are closer this time.
 
 ### Continued development
 
-revisit flexbox and mobile first RWD, the Device Mode in Chrome dev tools is so different then manually inspecting breakpoints
-
+revisit flexbox and mobile first RWD, CSS grid
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Jeffrey Hill](https://webdevhill.com/)
+- Frontend Mentor - [Jeffrey Hill](https://www.frontendmentor.io/profile/webdevhill)
 
+## Acknowledgments
+- @vcarames - fellow user on Front end Mentor - Thank you!
 
 
 
