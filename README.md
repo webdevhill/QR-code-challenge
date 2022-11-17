@@ -50,8 +50,12 @@ revisit flexbox and mobile first RWD, CSS grid
 - Website - [Jeffrey Hill](https://webdevhill.com/)
 - Frontend Mentor - [Jeffrey Hill](https://www.frontendmentor.io/profile/webdevhill)
 
+<<<<<<< HEAD
 ## Acknowledgments
 - @vcarames - fellow user on Front end Mentor - Thank you!
+=======
+
+>>>>>>> 51948264eb4de42187793a1e728b2d6185698c5c
 
 
 
