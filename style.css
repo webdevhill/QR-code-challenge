@@ -117,6 +117,10 @@ footer {
         max-width: 40%;
         margin: auto;
     }
+
+    .body-text {
+        line-height: 0;
+    }
 }
 
 @media screen and (max-width: 376px) {
@@ -127,5 +131,9 @@ footer {
     
     .header{
         letter-spacing: 2px;
+    }
+
+    .body-text {
+        line-height: 0;
     }
 }
