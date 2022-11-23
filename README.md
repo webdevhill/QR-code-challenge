@@ -36,15 +36,15 @@ newbie Front End Mentor HTML/CSS challenge involving basic styling, positioning,
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- media-queries
 
 ### What I learned
 
- Positioning and proportioning elements in CSS from a .jpeg can be a bit tricky. A fellow member on Front-end Mentor pointed out that I was using width instead of max-width. That was killing my responsiveness in flexbox. Ty @vcarames. The responsiveness seems decent Hopefully my proportions are closer this time.
+ Positioning and proportioning elements in CSS from a .jpeg can be a bit tricky. I tuned up my width and height and hopefully will nail the comparison screen this time. A fellow member on Front-end Mentor pointed out that I was using width instead of max-width. That was killing my responsiveness in flexbox. Ty @vcarames. The responsiveness seems decent Hopefully my proportions are closer this time.
 
 ### Continued development
 
 revisit flexbox and mobile first RWD, CSS grid
+
 ## Author
 
 - Website - [Jeffrey Hill](https://webdevhill.com/)
